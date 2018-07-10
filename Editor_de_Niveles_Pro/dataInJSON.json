@@ -1,0 +1,188 @@
+{
+  "rooms": [{
+    "layerGroups": [
+      {
+        "visible": true,
+        "name": "LayerGroupName0",
+        "commonLayers": [
+          {
+            "visible": false,
+            "name": "CommonLayerName0",
+            "sprites": [
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              }
+            ],
+            "unlocked": false
+          },
+          {
+            "visible": false,
+            "name": "CommonLayerName1",
+            "sprites": [
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              }
+            ],
+            "unlocked": false
+          }
+        ],
+        "unlocked": true
+      },
+      {
+        "visible": true,
+        "name": "LayerGroupName1",
+        "commonLayers": [
+          {
+            "visible": false,
+            "name": "CommonLayerName0",
+            "sprites": [
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              }
+            ],
+            "unlocked": false
+          },
+          {
+            "visible": false,
+            "name": "CommonLayerName1",
+            "sprites": [
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              },
+              {
+                "rootAssetId": 0,
+                "rotation": 0,
+                "position": {
+                  "X": 0,
+                  "Y": 0
+                }
+              }
+            ],
+            "unlocked": false
+          }
+        ],
+        "unlocked": true
+      }
+    ],
+    "mainCollision": {
+      "visible": true,
+      "name": "Colisión Principal",
+      "Dots": [],
+      "unlocked": true
+    },
+    "name": "RoomName0",
+    "thumbnailPath": "rooms/missingRoom.png",
+    "commonCollisions": [
+      {
+        "visible": true,
+        "name": "CommonCollisionName0",
+        "Dots": [],
+        "unlocked": true
+      },
+      {
+        "visible": true,
+        "name": "CommonCollisionName1",
+        "Dots": [],
+        "unlocked": true
+      }
+    ],
+    "mainScene": {
+      "visible": true,
+      "name": "Límites del cuarto",
+      "position": {
+        "X": 0,
+        "Y": 0
+      },
+      "unlocked": true,
+      "dimensions": {
+        "X": 10,
+        "Y": 10
+      }
+    },
+    "commonScenes": [
+      {
+        "visible": true,
+        "size": 1,
+        "name": "CommonSceneName0",
+        "position": {
+          "X": 0,
+          "Y": 0
+        },
+        "unlocked": true
+      },
+      {
+        "visible": true,
+        "size": 1,
+        "name": "CommonSceneName1",
+        "position": {
+          "X": 0,
+          "Y": 0
+        },
+        "unlocked": true
+      }
+    ]
+  }],
+  "assets": [
+    {
+      "name": "AssetName0",
+      "diffusePath": "assets/missingAsset.png"
+    },
+    {
+      "name": "AssetName1",
+      "diffusePath": "assets/missingAsset.png"
+    },
+    {
+      "name": "AssetName2",
+      "diffusePath": "assets/missingAsset.png"
+    },
+    {
+      "name": "AssetName3",
+      "diffusePath": "assets/missingAsset.png"
+    }
+  ],
+  "IdCount": 4
+}
